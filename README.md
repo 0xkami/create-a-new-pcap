@@ -1,4 +1,5 @@
 # create-a-new-pcap
+最近写了一个改包的脚本
 Python中有一个scapy库，是个好东西
 Scapy 中文文档：https://www.cntofu.com/book/33/4.md
 ## 0x1 读取包中的数据
